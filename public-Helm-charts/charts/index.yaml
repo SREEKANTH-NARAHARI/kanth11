@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  docker:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-29T11:06:25.702143298Z"
+    description: A Helm chart for Kubernetes
+    digest: d403596ed1713d0cba5d322e9e6d36b9e1629e4f4ee358f17d3a7db44d440653
+    name: docker
+    type: application
+    urls:
+    - https://github.com/SREEKANTH-NARAHARI/-my-helm-charts-.git/docker-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-29T11:06:25.701315544Z"
